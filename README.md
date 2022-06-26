@@ -1,4 +1,7 @@
 # Movie Recommender System
-This is a movie recommender system which returns top 5 movies closest to the movie that has been input by the user.
-Concepts such as Bag of words,Vectorization,Stemming and Cosine distances have been used to create this project.
-Dataset has been taken from kaggle.com (tmdb top 5000 movies dataset).
+
+A streamlit app that recommends top 5 similar movies based on the input movie
+
+Demo Link : https://mrs-kartiksood.herokuapp.com/
+
+Dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
